@@ -17,21 +17,27 @@ while True:
     match opcion:
 
         case 1:
+            # Ejercicio 1: Producción de leche
             pass
 
         case 2:
+            # Ejercicio 2: Sueldo semanal
             pass
 
         case 3:
+            # Ejercicio 3: Conversión de metros a pulgadas
             pass
 
         case 4:
+            # Ejercicio 4: Cálculo de edad
             pass
 
         case 5:
+            # Ejercicio 5: Descuento e IVA
             pass
 
         case 6:
+            # Ejercicio 6: Ahorro anual
             pass
 
         case 0:
