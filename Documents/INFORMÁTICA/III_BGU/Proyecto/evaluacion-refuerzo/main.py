@@ -37,12 +37,16 @@ while True:
             pass
 
         case 6:
-            # Ejercicio 6: Ahorro anual
-            pass
+           sueldo = float(input("Ingrese su sueldo: "))
+           ahorro_semanal = sueldo * 0.15
+           ahorro_mensual = ahorro_semanal * 4
+           ahorro_anual = ahorro_mensual * 12
+           print("El ahorro anual es: $", ahorro_anual)
 
         case 0:
             print("Programa finalizado.")
-            break
+    
 
         case _:
             print("Opción no válida.")
+    
